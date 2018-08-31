@@ -1,5 +1,5 @@
 # BookmarkletFlipP5Editor
-Quick bookmarklet to flip P5 js online editor
+Quick bookmarklet to flip P5.js online editor
 
 ## Copy the bookmarklet below
 
